@@ -17,4 +17,3 @@ The app communicates through the shared AgentPulse protocol and does not connect
 Repository scaffold only; the HarmonyOS project has not been initialized.
 
 当前仅完成仓库占位，尚未初始化 HarmonyOS 工程。
-
